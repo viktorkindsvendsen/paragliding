@@ -1,1 +1,1 @@
-web: paragliding2
+web: paragliding
