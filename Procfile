@@ -1,1 +1,1 @@
-web: paragliding
+web: CT-1
